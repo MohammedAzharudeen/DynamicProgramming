@@ -33,6 +33,7 @@ public class WildcardPatternMatching {
                 }
             }else{
                 pattern[writeIndex++] = pattern[i];
+		isFirst = true;
             }
         }
         
