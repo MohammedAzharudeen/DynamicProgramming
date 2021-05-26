@@ -1,3 +1,18 @@
+/*
+Input :
+a*ab?
+3
+abca
+acabb
+aab
+
+Output :
+false
+true
+false
+*/
+
+
 package DynamicProgramming;
 
 import java.util.*;
